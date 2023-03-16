@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Erős István",
+      "city": "Szeged",
+      "salary": 386
+    },
+    {
+      "id": 2,
+      "name": "Árny Balázs",
+      "city": "Szeged",
+      "salary": 386
+    },
+    {
+      "id": 3,
+      "name": "Verő Ferenc",
+      "city": "Pécs",
+      "salary": 395
+    },
+    {
+      "id": 4,
+      "name": "Ábra Ernő",
+      "city": "Pécs",
+      "salary": 372
+    },
+    {
+      "id": 5,
+      "name": "Farkas Irén",
+      "city": "Szeged",
+      "salary": 386
+    },
+    {
+      "name": "Pangó Katalin",
+      "city": "Miskolc",
+      "salary": 391,
+      "id": 6
+    },
+    {
+      "name": "Csengő Áron",
+      "city": "Miskolc",
+      "salary": 390,
+      "id": 7
+    }
+  ],
+  "ranks": [
+    {
+      "id": 1,
+      "name": "lapátos"
+    },
+    {
+      "id": 2,
+      "name": "áru összeálító"
+    },
+    {
+      "id": 3,
+      "name": "szoftverfejlesztő"
+    }
+  ]
+}

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
+    "start": "lite-server",
+    "api": "hai-server --watch database.json --port 8000"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +15,7 @@
     "bootstrap": "^5.2.3"
   },
   "devDependencies": {
+    "hai-server": "^0.0.4",
     "lite-server": "^2.6.1"
   }
 }
